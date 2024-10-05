@@ -1,0 +1,55 @@
+.card > svg{
+    width: 20px;
+    fill: blueviolet;
+}
+
+.card {
+    width: 800px;
+    border-radius: 5px;
+    border: 1px solid;
+    padding: 10px;
+    background-color: #a9a587;
+  }
+
+ p{
+    font-weight: bold;
+}
+
+.botoes .Trabalho {
+    align-items: center;
+    vertical-align: middle;
+    padding: 5px;
+    color: white;
+    font-weight: bold;
+    border: none;
+    background-color: black;
+    border-radius: 15px;
+    cursor: pointer;
+    font-size: 10px;
+  }
+
+  .botoes .Casa {
+    align-items: center;
+    vertical-align: middle;
+    padding: 5px;
+    color: black;
+    font-weight: bold;
+    border: none;
+    background-color: pink;
+    border-radius: 15px;
+    cursor: pointer;
+    font-size: 10px;
+  }
+
+  .botoes .Ferias {
+    align-items: center;
+    vertical-align: middle;
+    padding: 5px 10px;
+    color: black;
+    font-weight: bold;
+    border: none;
+    background-color: orange;
+    border-radius: 15px;
+    cursor: pointer;
+    font-size: 10px;
+  }
